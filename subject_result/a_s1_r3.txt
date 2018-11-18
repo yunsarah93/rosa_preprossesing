@@ -1,0 +1,51 @@
+16Image
+o	1.250000
+7Image
+o	1.190000
+2Text
+o	1.750000
+17Image
+o	1.250000
+o	2.190000
+6Image
+o	1.170000
+o	1.620000
+19ImageText
+o	1.470000
+x	2.750000
+8ImageText
+o	1.480000
+1Image
+o	1.490000
+5Image
+o	1.130000
+o	1.420000
+4Text
+o	0.810000
+o	0.970000
+12ImageText
+o	1.270000
+x	1.460000
+3ImageText
+o	1.670000
+13Text
+o	1.730000
+20Text
+o	1.550000
+o	1.610000
+11ImageText
+o	2.310000
+15Text
+o	1.550000
+10Text
+o	2.000000
+o	4.630000
+14ImageText
+o	1.790000
+o	1.830000
+18Image
+o	1.460000
+o	2.320000
+9ImageText
+o	1.060000
+o	1.700000
